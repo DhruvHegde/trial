@@ -3,4 +3,4 @@ input a,b;
 output c;
 assign c = a & b;
 endmodule
-//added a comment
+//Manas changed it.
